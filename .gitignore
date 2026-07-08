@@ -1,0 +1,9 @@
+# Jekyll build output
+_site/
+
+# Local bundler cache (from Docker preview)
+.bundle-cache/
+vendor/
+
+# Local-only preview config (sets localhost URL)
+_config.dev.yml
